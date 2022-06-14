@@ -16,3 +16,4 @@ mattgruter/artifactory but mapped 8080 to 8081 of local
 
 sonarqube but added platform flag to support my Mac M1 machine
 
+Logs of Docker compose up can be found at [docker-compose-up.log](docker-compose-up.log)
