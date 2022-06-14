@@ -14,6 +14,7 @@ jenkins
 
 mattgruter/artifactory but mapped 8080 to 8081 of local
 
-sonarqube but added platform flag to support my Mac M1 machine
+sonarqube but added platform flag to support my Mac M1 machine, Sonarqube officially does not support arm64 yet.
+https://github.com/SonarSource/docker-sonarqube/issues/103
 
 Logs of Docker compose up can be found at [docker-compose-up.log](docker-compose-up.log)
