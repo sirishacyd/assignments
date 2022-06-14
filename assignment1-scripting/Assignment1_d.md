@@ -1,3 +1,4 @@
+```
 siri@siris-MacBook-Pro:~/shfmt|main⚡ ⇒  brew install maven
 maven 3.8.5 is already installed but outdated (so it will be upgraded).
 ==> Downloading https://ghcr.io/v2/homebrew/core/maven/manifests/3.8.6
@@ -27,3 +28,4 @@ Maven home: /opt/homebrew/Cellar/maven/3.8.6/libexec
 Java version: 11.0.15, vendor: Homebrew, runtime: /opt/homebrew/Cellar/openjdk@11/11.0.15/libexec/openjdk.jdk/Contents/Home
 Default locale: en_US, platform encoding: UTF-8
 OS name: "mac os x", version: "12.4", arch: "aarch64", family: "mac"
+```

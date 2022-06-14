@@ -1,3 +1,4 @@
+```
 siri@siris-MacBook-Pro:~/shfmt|main⚡ ⇒  docker pull nginx
 Using default tag: latest
 latest: Pulling from library/nginx
@@ -25,3 +26,4 @@ bd7a2c2a8fcc: Mounted from library/nginx
 b4f221ab2cef: Mounted from library/nginx 
 4d31756873fb: Mounted from sirisha7474/httpd-fs 
 latest: digest: sha256:6749669a206c08db96e2da448df2cf46ec4cf09ee1fdd51ed22edc2506727827 size: 1570
+```

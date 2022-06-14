@@ -1,3 +1,4 @@
+```
 siri@siris-MacBook-Pro:~|⇒  docker run -dit centos
 af0553fcfe98a1fb8ac2df3f5fcd6d07b3e2b1b147271757046e98142883e901
 siri@siris-MacBook-Pro:~|⇒  docker exec -it af0553fcfe98a1fb8ac2df3f5fcd6d07b3e2b1b147271757046e98142883e901 /bin/bash
@@ -32,3 +33,4 @@ else
 	echo "$FILE File  Created"
 fi
 siri@siris-MacBook-Pro:~|⇒ 
+```
