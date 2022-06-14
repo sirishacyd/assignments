@@ -7,7 +7,7 @@ Student Name : Sirisha Polisetty
 
 [Setup CI Stack in Vagrant](setup-ci-stack-in-vagrant/Readme.md)
 
-[Docker - CI Stack in Docker](docker-ci-stack-in-docker/Readme.md)
+[Docker - CI Stack in Docker](docker-ci-stack-in-docker/ReadMe.md)
 
 [Jenkins - Assignment](jenkins-assignment/Readme.md)
 
