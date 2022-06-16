@@ -47,6 +47,7 @@ Add the ‘mvn’ plugin to ZSH Profile
 Open a new terminal and find the number of aliases that comes with enabling the plugin for maven.
 
 - Added Logs at [Assignment1_d.md](Assignment1_d.md)
+
 e)  Create a Repo in Your Personal Github.com profile
 
 Commit the scripts created in the exercises above with the instructions on how to execute them in README.md file
