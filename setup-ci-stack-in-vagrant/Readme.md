@@ -5,10 +5,10 @@ a) As 3 Vagrant Boxes - Each having 1 CI tool, Bootstrapped via Shell Provisione
 
 Tools can start on the default ports 8080- Jenkins, 8081-Artifactory (Version 6). 9000 Sonarqube
 
-- Jenkins (Vagrantfile)[jenkins/Vagrantfile] (Shell Provisioner)[jenkins/jenkins.sh] 
-- SonarQube (Vagrantfile)[sonarqube/Vagrantfile] (Shell Provisioner)[artifactory/sonarqube.sh] 
-- Artifactory (Vagrantfile)[artifactory/Vagrantfile] (Shell Provisioner)[artifactory/artifactory.sh] 
-- (Screenshots)[screenshots/]
+- Jenkins [Vagrantfile](jenkins/Vagrantfile] [Shell Provisioner](jenkins/jenkins.sh) 
+- SonarQube [Vagrantfile](sonarqube/Vagrantfile] [Shell Provisioner](artifactory/sonarqube.sh) 
+- Artifactory [Vagrantfile](artifactory/Vagrantfile] [Shell Provisioner](artifactory/artifactory.sh) 
+- [Screenshots](screenshots/)
 
 ### Jenkins Vagrant Up
 ```
