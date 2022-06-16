@@ -1,0 +1,17 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "hashicorp/bionic64"
+  config.vm.network "forwarded_port", guest: 8081, host: 8081
+  config.vm.network "forwarded_port", guest: 8082, host: 8082
+  config.vm.provider "virtualbox" do |vb|
+    vb.name= "artifactory_vagrant"
+    vb.gui = false
+    vb.cpus = 2
+    vb.memory = "4096"
+  end
+  config.vm.provision "docker",
+    images: ["ubuntu"]
+  
+  config.vm.provision "shell" do |shell|
+    shell.path = "artifactory.sh"
+  end
+end
