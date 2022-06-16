@@ -1,5 +1,6 @@
 # assignments
-SEQA.X408 Assignments
+
+SEQA.X408 Assignments : DevOps Technologies
 
 Student Name : Sirisha Polisetty
 
